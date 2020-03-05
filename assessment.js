@@ -54,7 +54,7 @@ userNameInput.onkeydown = (event) => {
         assessmentButton.onclick();
     }
   };
-const answers = [
+const answers　= [
     '{userName}のいいところは声です。{userName}の特徴的な声は皆を惹きつけ、心に残ります。',
     '{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
     '{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。',
